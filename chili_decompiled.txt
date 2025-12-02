@@ -1,5 +1,5 @@
---// Melon Decompiler [Private] v1.1
---// Resolved: 147 identifiers | 38 functions | 3 strings
+-- Melon Decompiler [Private] v1.1
+-- Resolved: 147 identifiers | 38 functions | 3 strings
 
 local GlobalEnvironment = getgenv()
 
